@@ -1,5 +1,4 @@
-# Employee Attrition Prediction
-
+# Employee Attrition Prediction & Retention Analysis
 ## Overview
 This project uses employee-level HR data to analyze attrition patterns and develop machine-learning models that identify employees at elevated risk of leaving. The goal is to support proactive retention planning by combining exploratory analysis, predictive modeling, and business recommendations.
 
