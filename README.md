@@ -95,6 +95,8 @@ employee-attrition-prediction/
 ├── hr_employee_attrition.csv
 ├── README.md
 ├── requirements.txt
+├── .gitignore
+├── LICENSE
 └── images/
     ├── overtime_attrition.png
     ├── department_attrition.png
